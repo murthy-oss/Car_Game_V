@@ -6,7 +6,7 @@ A new Flutter project.
 
 
 
-Hey LinkedIn family! 👋 I'm thrilled to share with you my latest creation, "Car_Game_V" - a thrilling mobile game that combines the adrenaline of high-speed driving with the precision of avoiding oncoming traffic.
+Hey Git-Hub  family! 👋 I'm thrilled to share with you my latest creation, "Car_Game_V" - a thrilling mobile game that combines the adrenaline of high-speed driving with the precision of avoiding oncoming traffic.
 
 
 
@@ -46,9 +46,9 @@ I'm Lakkoju Vinay, a passionate YouTuber,Android developer,Android lead in GDSC 
 
 
 
-APK LINK:(https://lnkd.in/g82YMVDW)
+APK LINK:([https://lnkd.in/g82YMVDW](https://drive.google.com/file/d/1o5864NSeDNUp64EIYCZXRTEonHzF492U/view))
 
-WEB APP LINK:(https://lnkd.in/gFcNYGED)
+WEB APP LINK:([https://lnkd.in/gFcNYGED](https://car-game-v.web.app/))
 
 
 
@@ -57,3 +57,14 @@ WEB APP LINK:(https://lnkd.in/gFcNYGED)
 Thank you for your support! Let me know your high scores and any feedback you may have. Let's race into the fast lane together! 🏁🚀
 
 hashtag#RushRacer hashtag#GameDeveloper hashtag#AndroidGaming hashtag#NewRelease hashtag#FlutterDev
+
+
+
+
+
+
+
+
+
+https://github.com/murthy-oss/Car_Game_V/assets/150650726/057ab947-df73-40f8-bde6-5ac18225c604
+
